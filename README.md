@@ -14,10 +14,10 @@ Reduzir o tempo de triagem de chamados de suporte, automatizando a categorizaç�
 
 📂 Estrutura do projeto
 
-README.md          # Documentação do projeto  
-requirements.txt   # Dependências
-tickets_model.py   # Código principal do modelo
-data              # Dataset de tickets (real ou simulado)
+- README.md         
+- requirements.txt   
+- tickets_model.py   
+- data   
 
 📊 Dataset
 
