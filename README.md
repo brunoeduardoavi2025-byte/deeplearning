@@ -65,3 +65,5 @@ Usar datasets reais de suporte técnico.
 Integrar com APIs de helpdesk (GLPI, ServiceNow).
 Implementar detecção de anomalias em logs como projeto complementar.
 
+
+Projeto desenvolvido por Bruno com apoio do Copilot (Microsoft AI Companion).
